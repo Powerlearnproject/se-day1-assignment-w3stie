@@ -7,13 +7,13 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
 #Ans:
-Software engineering is basically the entire process of designing, developing, testing, deploying, and maintaining high-quality software systems. 
-I has made possible various aspects of modern life, including communication, commerce, entertainment, and healthcare, all through interactive softwares.
+ - Software engineering is basically the entire process of designing, developing, testing, deploying, and maintaining high-quality software systems. 
+ - I has made possible various aspects of modern life, including communication, commerce, entertainment, and healthcare, all through interactive softwares.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 #Ans
-Key Milestones include:
+ - Key Milestones include:
     1. Establishment of software engineering as a discipline - 1960s
     2. Invention of structured programming - 1970s
     3. The rise of agile methodologies - 2000s.
